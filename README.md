@@ -1,6 +1,8 @@
 Firstpartyselector
 ==================
 
+***DO NOT USE THIS, USE scan_all_top_level_modules INSTEAD, THIS ALREADY ENSURES NO 3rd PARTY MODULES ARE SELECTED***
+
 Example project on using the API to automatically produce a scan where all first party modules are selected.
 Uses a published copy of verademo-dotnetcore from https://github.com/veracode/verademo-dotnetcore/tree/master/app .
 
